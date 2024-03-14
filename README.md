@@ -1,4 +1,13 @@
 ### Hi there 👋
+I've decided to make a career change into the field of IT, and I couldn't be more thrilled about it!
+
+I've always loved tinkering with technology and solving problems. Well, I've finally decided to take the plunge and pursue my passion full-time. The world of IT is so dynamic and fast-paced, and I can't wait to dive in and be a part of it.
+
+I've been doing a lot of research and learning as much as I can about different aspects of IT, from programming languages to network security. It's been an exhilarating journey so far, and I'm hungry to learn even more.
+
+I've already started tailoring my resume and cover letter to highlight my relevant skills and experiences, and I'm feeling really positive about my chances.
+
+Gabriel Souza
 
 <!--
 **gabrielmsouza16/gabrielmsouza16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
